@@ -1,0 +1,61 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+.dıskutu{
+    width: 50%;
+    height: 550px;
+    margin: 35px auto;
+}
+
+.baslik{
+    width: 100%;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 2em;
+}
+
+.girisyapimi{
+    width: 100%;
+    height: 20%;
+}
+
+.girisyapimi input{
+    margin-top: 5.5%;
+    margin-left: 23%;
+    width: 50%;
+    height: 30%;
+    border-radius: 30px;
+}
+
+.girisyapimi input:focus{
+    outline: none;
+}
+
+.girisyapimi button{
+    width:5%;
+    height: 30%;
+    border-radius: 40px;
+    background-color: chartreuse;
+    font-size: 1.2em;
+    margin-left: 0.5%;
+}
+
+.girisyapimi button:focus{
+    outline: none;
+}
+
+#yapilacaklariyaz{
+    width: 100%;
+    height: 68%;
+}
+
+.ekleneceklerinstili{
+    color: white;
+    font-size: 1.5em;
+    cursor: pointer;
+    text-align: center;
+}
